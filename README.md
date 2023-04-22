@@ -4,7 +4,7 @@
 </a>
   
 <div align="center">
-  <img height="340" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"  />
+  <img height="300" width="550" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"  />
 </div>
 
 ###
