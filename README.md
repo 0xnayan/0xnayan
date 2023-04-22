@@ -1,4 +1,8 @@
-
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nayanmoni+Borah;UG+Student+%7C+Tezpur+University;web3+%7C+Blockchain+Development" alt="Typing SVG" />
+</a>
+  
 <div align="center">
   <img height="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1zdWI_LC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ahzfi2saqzfi3gdxpbr4.gif"  />
 </div>
@@ -9,6 +13,8 @@
 <h3 align="center">My expertise lies in developing smart contracts and dApps.</h3>
 
 - 🌱 I’m currently learning **NFTs and defi.**
+
+- 💡 Open to collaborating on projects and innovative ideas. 
 
 - 💬 Ask me about **smart contracts.**
 
