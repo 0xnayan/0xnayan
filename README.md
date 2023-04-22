@@ -4,13 +4,11 @@
 </a>
   
 <div align="center">
-  <img height="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1zdWI_LC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ahzfi2saqzfi3gdxpbr4.gif"  />
+  <img height="340" src="https://res.cloudinary.com/practicaldev/image/fetch/s--1zdWI_LC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ahzfi2saqzfi3gdxpbr4.gif"  />
 </div>
 
 ###
-
-<h1 align="center">Hi 👋, I'm Nayanmoni Borah.</h1>
-<h3 align="center">My expertise lies in developing smart contracts and dApps.</h3>
+<h2 align="center">My expertise lies in developing smart contracts and dApps.</h2>
 
 - 🌱 I’m currently learning **NFTs and defi.**
 
