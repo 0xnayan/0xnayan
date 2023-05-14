@@ -3,10 +3,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nayanmoni+Borah;UG+Student+%7C+Tezpur+University;web3+%7C+Blockchain+Development" alt="Typing SVG" />
 </a>
   
-<div align="center">
+<!-- <div align="center">
   <img height="300" width="550" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif"  />
 </div>
-
+ -->
 ###
  
 <h2 align="center">My expertise lies in developing smart contracts and dApps.</h2>
