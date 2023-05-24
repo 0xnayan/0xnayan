@@ -8,7 +8,7 @@
 </div>
 
 ###
- 
+
 <h2 align="center">My expertise lies in developing smart contracts and dApps.</h2>
 
 - 🌱 I’m currently learning **NFTs and defi.**
