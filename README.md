@@ -1,10 +1,10 @@
 <p align="center">
 <a href="https://github.com/0xnayan">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nayanmoni+Borah;PG+Student+%7C+Tezpur+University;web3+%7C+Blockchain+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Nayanmoni+Borah;PG+Student+%7C+Tezpur+University;Digital+Signal+Processing+(DSP)" alt="Typing SVG" />
 </a>
   
  <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://static.vecteezy.com/system/resources/thumbnails/074/503/346/small_2x/a-green-line-is-shown-on-a-computer-screen-free-photo.jpeg"  />
 </div>
 
 ###
